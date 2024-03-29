@@ -32,5 +32,5 @@
 # list[1]="lamborgini"
 # print(list)
 #  შექმენით რიცხვების სია სადაც 10 რიცხვს შეიტანთ, გამოიტანეთ პირელ ინდექსა
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(numbers[ 0] + numbers[9])
+# numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# print(numbers[ 0] + numbers[9])

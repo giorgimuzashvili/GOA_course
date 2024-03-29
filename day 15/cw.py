@@ -21,5 +21,3 @@ print(len(numbers2))
 name = "muzashvili"
 print(len(name)-1)
 
-
-
