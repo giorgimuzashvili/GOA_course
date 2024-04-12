@@ -74,20 +74,22 @@
 #     main()
 
 
-def main():
-    even_numbers = []
-    odd_numbers = []
 
-    for i in range(5):
-        num = int(input("შეიყვანეთ რიცხვი: "))
-        if num % 2 == 0:
-            even_numbers.append(num)
-        else:
-            odd_numbers.append(num)
 
-    print("ლუწები:", even_numbers)
-    print("კენტები:", odd_numbers)
+# def main():
+#     even_numbers = []
+#     odd_numbers = []
 
-if __name__ == "__main__":
-    main()
+#     for i in range(5):
+#         num = int(input("enter number "))
+#         if num % 2 == 0:
+#             even_numbers.append(num)
+#         else:
+#             odd_numbers.append(num)
+
+#     print( even_numbers)
+#     print( odd_numbers)
+
+# if __name__ == "__main__":
+#     main()
 

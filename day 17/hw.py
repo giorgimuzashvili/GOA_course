@@ -72,9 +72,9 @@
 
 
 
-numbers = list(range(50, 101))
+numbers = list(range(50, 100 + 1))
 for index in range(len(numbers)):
     if numbers[index] % 2 == 0:
-        print("{numbers[index]} - {index}")
+        print(f"{numbers[index]} - {index}")
 
 
